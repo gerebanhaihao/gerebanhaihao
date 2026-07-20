@@ -24,6 +24,21 @@ I'm a graduate in Information Management and Information Systems from Shanghai U
 ![Management Information Systems](https://img.shields.io/badge/Management%20Information%20Systems-808080?style=for-the-badge&logoColor=white)
 ![Probability & Statistics](https://img.shields.io/badge/Probability%20%26%20Statistics-000000?style=for-the-badge&logoColor=white)
 
+## Projects:
+
+**Operations Research**
+  - [Truck-Drone Collaborative Delivery Optimization](https://github.com/gerebanhaihao/VRPD-with-No-Fly-Zones) — Under Review at SCI Journal
+  - [Order Allocation & Rider Route Planning](https://github.com/gerebanhaihao/PDVRPTW-with-Gurobi) —  Provincial First Prize, "Zhengda Cup" National Undergraduate Market Survey and Analysis Competition, Team Leader
+  - Crop Planting Optimization — Provincial Second Prize, China National Mathematical Modeling Competition, Team Leader
+  - Urban Traffic Resilience Analysis — Honorable Mention, Interdisciplinary Contest in Modeling (ICM), Team Leader
+
+**Data Analytics & ML**
+  - [Rider Behavior Analysis](https://www.engineeringvillage.com/app/doc/?docid=cpx_37a694d919b69ba3b8cM68691017816338&pageSize=25&index=1&searchId=8a9bfa4294144e97bbeabd882ac07b35&resultsCount=1&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick) — EI Compendex conference paper published, first author; Provincial First Prize, "Zhengda Cup" National Undergraduate Market Survey and Analysis Competition, Team Leader
+
+**Data Warehouse & BI**
+  - [BikeCompany ETL Project](https://github.com/gerebanhaihao/BikeCompany-ETL-DataWarehouse) — Course Project
+
+
 ## Languages:
 ![Python](https://img.shields.io/badge/Python-325377?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-ca0e12?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -32,7 +47,7 @@ I'm a graduate in Information Management and Information Systems from Shanghai U
 ![LaTeX](https://img.shields.io/badge/LaTeX-325377?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-ca0e12?style=for-the-badge&logo=markdown&logoColor=white)
 
-## IDEs & Code Editors:
+## IDEs:
 ![Jupyter](https://img.shields.io/badge/Jupyter-325377?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-ca0e12?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-f6bd21?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -66,8 +81,7 @@ I'm a graduate in Information Management and Information Systems from Shanghai U
 #### AI Application:
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-ca0e12?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-f6bd21?style=for-the-badge&logo=anthropic&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-325377?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-325377?style=for-the-badge&logo=langchain&logoColor=white)
 
 ## Connect with me:
 
