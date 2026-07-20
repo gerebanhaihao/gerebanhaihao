@@ -17,14 +17,14 @@ I'm a graduate in Information Management and Information Systems from Shanghai U
 
 ## Core Courses:
 ![Operations Research](https://img.shields.io/badge/Operations%20Research-000000?style=for-the-badge&logoColor=white)
-![Mathematical Modeling](https://img.shields.io/badge/Mathematical%20Modeling-808080?style=for-the-badge&logoColor=white)
+![Mathematical Modeling](https://img.shields.io/badge/Mathematical%20Modeling-000000?style=for-the-badge&logoColor=white)
 ![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-000000?style=for-the-badge&logoColor=white)
-![Programming](https://img.shields.io/badge/Programming-808080?style=for-the-badge&logoColor=white)
+![Programming](https://img.shields.io/badge/Programming-000000?style=for-the-badge&logoColor=white)
 ![Data Processing](https://img.shields.io/badge/Data%20Processing-000000?style=for-the-badge&logoColor=white)
-![Management Information Systems](https://img.shields.io/badge/Management%20Information%20Systems-808080?style=for-the-badge&logoColor=white)
+![Management Information Systems](https://img.shields.io/badge/Management%20Information%20Systems-000000?style=for-the-badge&logoColor=white)
 ![Probability & Statistics](https://img.shields.io/badge/Probability%20%26%20Statistics-000000?style=for-the-badge&logoColor=white)
 
-## Projects:
+## Research Projects:
 
 **Operations Research**
   - [Truck-Drone Collaborative Delivery Optimization](https://github.com/gerebanhaihao/VRPD-with-No-Fly-Zones) — Under Review at SCI Journal
@@ -33,7 +33,7 @@ I'm a graduate in Information Management and Information Systems from Shanghai U
   - Urban Traffic Resilience Analysis — Honorable Mention, Interdisciplinary Contest in Modeling (ICM), Team Leader
 
 **Data Analytics & ML**
-  - [Rider Behavior Analysis](https://www.engineeringvillage.com/app/doc/?docid=cpx_37a694d919b69ba3b8cM68691017816338&pageSize=25&index=1&searchId=8a9bfa4294144e97bbeabd882ac07b35&resultsCount=1&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick) — EI Compendex conference paper published, first author; Provincial First Prize, "Zhengda Cup" National Undergraduate Market Survey and Analysis Competition, Team Leader
+  - [Rider Behavior Analysis](https://www.engineeringvillage.com/app/doc/?docid=cpx_37a694d919b69ba3b8cM68691017816338&pageSize=25&index=1&searchId=8a9bfa4294144e97bbeabd882ac07b35&resultsCount=1&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick) — EI Compendex Conference Paper Published, First Author; Provincial First Prize, "Zhengda Cup" National Undergraduate Market Survey and Analysis Competition, Team Leader
 
 **Data Warehouse & BI**
   - [BikeCompany ETL Project](https://github.com/gerebanhaihao/BikeCompany-ETL-DataWarehouse) — Course Project
@@ -48,9 +48,9 @@ I'm a graduate in Information Management and Information Systems from Shanghai U
 ![Markdown](https://img.shields.io/badge/Markdown-ca0e12?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## IDEs:
-![Jupyter](https://img.shields.io/badge/Jupyter-325377?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-ca0e12?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-f6bd21?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-f6bd21?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-325377?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## Tools & Platforms:
 
@@ -71,17 +71,18 @@ I'm a graduate in Information Management and Information Systems from Shanghai U
 #### Operations Research:
 ![Gurobi](https://img.shields.io/badge/Gurobi-325377?style=for-the-badge&logo=databricks&logoColor=white)
 ![CPLEX](https://img.shields.io/badge/CPLEX-000000?style=for-the-badge&logo=ibm&logoColor=white)
+![LINGO](https://img.shields.io/badge/LINGO-ca0e12?style=for-the-badge&logo=lingo&logoColor=white)
 
 #### Product & Design:
-![Axure](https://img.shields.io/badge/Axure-ca0e12?style=for-the-badge&logo=axure&logoColor=white)
-![Visio](https://img.shields.io/badge/Visio-f6bd21?style=for-the-badge&logo=microsoft&logoColor=white)
-![XMind](https://img.shields.io/badge/XMind-325377?style=for-the-badge&logo=xmind&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white)
+![Axure](https://img.shields.io/badge/Axure-f6bd21?style=for-the-badge&logo=axure&logoColor=white)
+![Visio](https://img.shields.io/badge/Visio-325377?style=for-the-badge&logo=microsoft&logoColor=white)
+![XMind](https://img.shields.io/badge/XMind-000000?style=for-the-badge&logo=xmind&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-ca0e12?style=for-the-badge&logo=canva&logoColor=white)
 
 #### AI Application:
-![ChatGPT](https://img.shields.io/badge/ChatGPT-ca0e12?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-f6bd21?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-325377?style=for-the-badge&logo=langchain&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-f6bd21?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-325377?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 
 ## Connect with me:
 
