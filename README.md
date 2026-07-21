@@ -1,8 +1,10 @@
+## 🎓 About Me:
+
 ### Hi there, I'm Yunming Yu 👋
 
 `Python` `C++` `MATLAB` `SQL` `Markdown` | `Jupyter` `VS Code` `Visual Studio`
 
-I'm a graduate in Information Management and Information Systems from Shanghai University. I have been admitted to the Master's program in Information Resource Management at Sun Yat-sen University through the postgraduate recommendation system. I'm passionate about leveraging **operations research**, **data analytics**, and **AI** to solve real-world decision-making problems.
+I'm a graduate in Information Management and Information Systems from **Shanghai University**. I have been admitted to the Master's program in Information Resource Management at **Sun Yat-sen University** through the postgraduate recommendation system. I'm passionate about leveraging **operations research**, **data analytics**, and **AI** to solve real-world decision-making problems.
 
 **My Research Interests**:
 - **Optimization & Logistics**: Vehicle Routing Problem (VRP), Truck-Drone Collaborative Delivery
@@ -17,10 +19,10 @@ I'm a graduate in Information Management and Information Systems from Shanghai U
 - Research collaborations in logistics optimization and intelligent transportation
 
 
-## Core Courses:
+## 📚 Core Courses:
 `Operations Research` `Mathematical Modeling` `Data Warehouse` `Programming` `Data Processing` `Management Information Systems` `Probability & Statistics`
 
-## Research Projects:
+## 📁 Research Projects:
 
 **Operations Research**
   - [Truck-Drone Collaborative Delivery Optimization](https://github.com/gerebanhaihao/VRPD-with-No-Fly-Zones) — Under Review at SCI Journal
@@ -34,7 +36,7 @@ I'm a graduate in Information Management and Information Systems from Shanghai U
 **Data Warehouse & BI**
   - [BikeCompany ETL Project](https://github.com/gerebanhaihao/BikeCompany-ETL-DataWarehouse) — Course Project
 
-## Tools & Platforms:
+## 🛠️ Tools & Platforms:
 
 #### Data Science:
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)
@@ -63,7 +65,7 @@ I'm a graduate in Information Management and Information Systems from Shanghai U
 ![LINGO](https://img.shields.io/badge/LINGO-555555?style=for-the-badge&logo=lingo&logoColor=white)
 
 
-## Connect with me:
+## 📫 Connect with me:
 
 <p align="center">
 
