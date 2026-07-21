@@ -38,51 +38,50 @@ I'm a graduate in Information Management and Information Systems from Shanghai U
 **Data Warehouse & BI**
   - [BikeCompany ETL Project](https://github.com/gerebanhaihao/BikeCompany-ETL-DataWarehouse) — Course Project
 
-
 ## Languages:
-![Python](https://img.shields.io/badge/Python-325377?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-ca0e12?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-f6bd21?style=for-the-badge&logo=mathworks&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-325377?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-ca0e12?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2aa7de?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-555555?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=for-the-badge&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2aa7de?style=for-the-badge&logo=postgresql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-555555?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## IDEs:
-![Jupyter](https://img.shields.io/badge/Jupyter-f6bd21?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-325377?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-2aa7de?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-555555?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## Tools & Platforms:
 
 #### Data Science & Machine Learning:
-![NumPy](https://img.shields.io/badge/NumPy-ca0e12?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-f6bd21?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-325377?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ca0e12?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-2aa7de?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-555555?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-2aa7de?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-555555?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 #### Data Analytics & Database:
-![Power BI](https://img.shields.io/badge/Power%20BI-f6bd21?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-325377?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-ca0e12?style=for-the-badge&logo=mysql&logoColor=white)
-![Kettle](https://img.shields.io/badge/Kettle-f6bd21?style=for-the-badge&logo=pentaho&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-2aa7de?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-555555?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Kettle](https://img.shields.io/badge/Kettle-2aa7de?style=for-the-badge&logo=pentaho&logoColor=white)
 
 #### Operations Research:
-![Gurobi](https://img.shields.io/badge/Gurobi-325377?style=for-the-badge&logo=databricks&logoColor=white)
+![Gurobi](https://img.shields.io/badge/Gurobi-555555?style=for-the-badge&logo=databricks&logoColor=white)
 ![CPLEX](https://img.shields.io/badge/CPLEX-000000?style=for-the-badge&logo=ibm&logoColor=white)
-![LINGO](https://img.shields.io/badge/LINGO-ca0e12?style=for-the-badge&logo=lingo&logoColor=white)
+![LINGO](https://img.shields.io/badge/LINGO-2aa7de?style=for-the-badge&logo=lingo&logoColor=white)
 
 #### Product & Design:
-![Axure](https://img.shields.io/badge/Axure-f6bd21?style=for-the-badge&logo=axure&logoColor=white)
-![Visio](https://img.shields.io/badge/Visio-325377?style=for-the-badge&logo=microsoft&logoColor=white)
-![XMind](https://img.shields.io/badge/XMind-000000?style=for-the-badge&logo=xmind&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-ca0e12?style=for-the-badge&logo=canva&logoColor=white)
+![Axure](https://img.shields.io/badge/Axure-555555?style=for-the-badge&logo=axure&logoColor=white)
+![Visio](https://img.shields.io/badge/Visio-000000?style=for-the-badge&logo=microsoft&logoColor=white)
+![XMind](https://img.shields.io/badge/XMind-2aa7de?style=for-the-badge&logo=xmind&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-555555?style=for-the-badge&logo=canva&logoColor=white)
 
 #### AI Application:
-![ChatGPT](https://img.shields.io/badge/ChatGPT-f6bd21?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-325377?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-2aa7de?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-555555?style=for-the-badge&logo=langchain&logoColor=white)
 
 ## Connect with me:
 
