@@ -67,7 +67,7 @@ I'm a graduate in Information Management and Information Systems from Shanghai U
 
 <p align="center">
 
-[![Email](https://img.shields.io/badge/Email-3491147407@qq.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3491147407@qq.com)
+[![Email](https://img.shields.io/badge/Email-3491137307@qq.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3491137307@qq.com)
 [![GitHub](https://img.shields.io/badge/GitHub-gerebanhaihao-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gerebanhaihao)
 [![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-@gerebanhaihao-000000?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/62faff56000000001200e2a4)
 
