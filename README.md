@@ -27,8 +27,8 @@ I'm a graduate in Information Management and Information Systems from **Shanghai
 **Operations Research**
   - [Truck-Drone Collaborative Delivery Optimization](https://github.com/gerebanhaihao/VRPD-with-No-Fly-Zones) — Under Review at SCI Journal
   - [Order Allocation & Rider Route Planning](https://github.com/gerebanhaihao/PDVRPTW-with-Gurobi) —  Provincial First Prize, "Zhengda Cup" National Undergraduate Market Survey and Analysis Competition, Team Leader
-  - Crop Planting Optimization — Provincial Second Prize, China National Mathematical Modeling Competition, Team Leader
-  - Urban Traffic Resilience Analysis — Honorable Mention, Interdisciplinary Contest in Modeling (ICM), Team Leader
+  - [Crop Planting Optimization](https://gerebanhaihao.github.io/project.html?id=agriculture) — Provincial Second Prize, China National Mathematical Modeling Competition, Team Leader
+  - [Urban Traffic Resilience Analysis](https://gerebanhaihao.github.io/project.html?id=traffic) — Honorable Mention, Interdisciplinary Contest in Modeling (ICM), Team Leader
 
 **Data Analytics & ML**
   - [Rider Behavior Analysis](https://www.engineeringvillage.com/app/doc/?docid=cpx_37a694d919b69ba3b8cM68691017816338&pageSize=25&index=1&searchId=8a9bfa4294144e97bbeabd882ac07b35&resultsCount=1&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick) — EI Compendex Conference Paper Published, First Author
