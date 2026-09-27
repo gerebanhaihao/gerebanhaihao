@@ -30,7 +30,8 @@ I'm a graduate in Information Management and Information Systems from **Shanghai
   - [Crop Planting Optimization](https://gerebanhaihao.github.io/project.html?id=agriculture) — Provincial Second Prize, China National Mathematical Modeling Competition, Team Leader
   - [Urban Traffic Resilience Analysis](https://gerebanhaihao.github.io/project.html?id=traffic) — Honorable Mention, Interdisciplinary Contest in Modeling (ICM), Team Leader
 
-**Data Analytics & ML**
+**Data Science & AI**
+  - [LLM-Powered Brand Sentiment Filter](https://github.com/gerebanhaihao/Beer-Comment-Analysis-LLM-Powered-Sentiment-Filter) — Real Enterprise Project
   - [Rider Behavior Analysis](https://www.engineeringvillage.com/app/doc/?docid=cpx_37a694d919b69ba3b8cM68691017816338&pageSize=25&index=1&searchId=8a9bfa4294144e97bbeabd882ac07b35&resultsCount=1&usageZone=resultslist&usageOrigin=searchresults&searchType=Quick) — EI Compendex Conference Paper Published, First Author
 
 **Data Warehouse & BI**
